@@ -36,7 +36,7 @@ Handwritten-Computer-Vision/
    ```bash
    git clone https://github.com/Giwa-ibrahim/Handwritten_generator.git
    cd Handwritten_generator
-````
+   ````
 
 2. **Install dependencies using pip or uv:**
 
